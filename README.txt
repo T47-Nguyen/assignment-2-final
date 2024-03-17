@@ -1,4 +1,4 @@
-It's the clo-clo website.
+Welcome to Clo_CloDry. In here, you have clean clothes and a close-up community. We are passionate about building a community of people over the shared necessity of doing laundry. People gather here to meet together, wash their clothes, get much-needed sustenance, swap stories, and build a real community. We've created a laundrette that you'll want to hang out in, and if you've yet to discover this Bristol gem, you've got a treat in store.
 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
